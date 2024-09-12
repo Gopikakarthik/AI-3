@@ -1,4 +1,4 @@
-### Ex.No: 3 Implementation of Minimax Search
+# Ex.No: 3 Implementation of Minimax Search
 
 REGISTER NUMBER : 212222040046
 
